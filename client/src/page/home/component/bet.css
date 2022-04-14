@@ -1,0 +1,13 @@
+.spin {
+  animation: spining 3s 1;
+}
+
+@keyframes spining {
+  from {
+    transform: rotateX(0deg);
+  }
+
+  to {
+    transform: rotateX(2160deg);
+  }
+}

@@ -1,0 +1,9 @@
+.header {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.flexcontainer {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
